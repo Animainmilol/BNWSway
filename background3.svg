@@ -1,0 +1,33 @@
+<svg width="1366" height="768" viewBox="0 0 1366 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_8)">
+<rect width="1366" height="768" fill="white"/>
+<rect x="-817" y="-616" width="3000" height="2000" fill="black"/>
+<g filter="url(#filter0_f_1_8)">
+<ellipse cx="1172" cy="136.5" rx="193" ry="192.5" fill="white"/>
+</g>
+<g filter="url(#filter1_f_1_8)">
+<circle cx="224" cy="729" r="353" fill="#101010"/>
+</g>
+<foreignObject x="439" y="-533.003" width="1689.23" height="1433.01"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(100px);clip-path:url(#bgblur_1_1_8_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="200" x="1678.23" y="700.01" width="1200" height="500" transform="rotate(-150 1678.23 700.01)" fill="#111111" fill-opacity="0.4"/>
+<foreignObject x="-806" y="-132.003" width="1689.23" height="1433.01"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(100px);clip-path:url(#bgblur_2_1_8_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="200" x="433.23" y="1101.01" width="1200" height="500" transform="rotate(-150 433.23 1101.01)" fill="#111111" fill-opacity="0.4"/>
+<rect x="-1" y="668" width="1366" height="100" fill="black"/>
+<rect width="1366" height="100" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_f_1_8" x="679" y="-356" width="986" height="985" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_1_8"/>
+</filter>
+<filter id="filter1_f_1_8" x="-429" y="76" width="1306" height="1306" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_1_8"/>
+</filter>
+<clipPath id="bgblur_1_1_8_clip_path" transform="translate(-439 533.003)"><rect x="1678.23" y="700.01" width="1200" height="500" transform="rotate(-150 1678.23 700.01)"/>
+</clipPath><clipPath id="bgblur_2_1_8_clip_path" transform="translate(806 132.003)"><rect x="433.23" y="1101.01" width="1200" height="500" transform="rotate(-150 433.23 1101.01)"/>
+</clipPath><clipPath id="clip0_1_8">
+<rect width="1366" height="768" fill="white"/>
+</clipPath>
+</defs>
+</svg>
